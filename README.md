@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on wuhan hubei chain
+ 🔭 I’m currently working on wuhan hubei chain
 <!--
 **Zhjoker/Zhjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
