@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on wuhan hubei chain
+ 🔭 I’m currently working on wuhan hubei chain\
+ 🌱 I’m currently learning JavaScript,Java,C,ta Structure
+ 👯 I’m looking to collaborate on Front end Engineering
 <!--
 **Zhjoker/Zhjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
