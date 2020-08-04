@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lenve&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  🔭 I’m currently working on wuhan hubei chain\
  🌱 I’m currently learning JavaScript,Java,C,ta Structure\
