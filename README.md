@@ -1,6 +1,6 @@
 ### Hi there 👋
  🔭 I’m currently working on wuhan hubei chain\
- 🌱 I’m currently learning JavaScript,Java,C ta Structure\
+ 🌱 I’m currently learning JavaScript,Java,C\
  👯 I’m looking to collaborate on Front end Engineering\
  📫 How to reach me: wechat(printf_yearning)/wechat official account(筱前端)
  
